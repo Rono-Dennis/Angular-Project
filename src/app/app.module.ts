@@ -20,7 +20,8 @@ import { WarningAlertComponent } from './warning-alert/warning-alert.component';
   imports: [
     BrowserModule,
     AppRoutingModule, 
-    FormsModule, 
+    FormsModule,
+ 
   ],
   providers: [],
   bootstrap: [AppComponent]
